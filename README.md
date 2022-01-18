@@ -1,6 +1,6 @@
 # NICE_Home_Assignment
 
-### First solution
+### First Solution
 
 The space complexity is array from size max-min+1 and constant number of variables – O(n).
 
