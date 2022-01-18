@@ -1,4 +1,4 @@
-# NICE_Home_Assignment
+# NICE Home Assignment
 
 ### First Solution
 
